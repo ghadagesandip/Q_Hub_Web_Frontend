@@ -1,0 +1,41 @@
+.wrapParent{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.wrap {
+  width: 350px;
+  background-color: white;
+  padding:30px;
+  margin-top: 100px;
+  display: inline-block;
+}
+.head {
+    text-align: center;
+    font-size: 26px;
+    color: lightslategray;
+    text-align: center;
+    width: 100%;
+}
+.inputWrap {
+    width: 100%;
+    margin:0px;
+    margin-bottom: 15px;
+    text-align: center;
+    overflow: hidden;
+}
+.inputWrap input {
+    border-width: 0px;
+    border-bottom-width: 1px;
+    width: 100%;
+    padding: 10px 10px;
+    margin: 0px;
+    font-size: 14px;
+}
+button {
+    margin-top:10px;
+    margin-bottom:10px;
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 20px;
+}

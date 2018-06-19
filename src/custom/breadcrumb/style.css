@@ -1,0 +1,27 @@
+.appBreadcrumb {
+    position: fixed;
+    top: 60px;
+    left: 240px;
+    width: calc(100% - 240px);
+    height: 70px;
+    background: white;
+    z-index: 10;
+}
+
+.appBreadcrumb .wrap1 {
+    float: left;
+    color: gray;
+    font-size: 30px;
+    padding-top:18px;
+    padding-left: 15px;
+    font-weight: 300;
+}
+
+.appBreadcrumb .wrap2 {
+    float: right;
+    text-align: right;
+    color: gray;
+    font-size: 14px;
+    padding-top:26px;
+    padding-right: 15px;
+}
